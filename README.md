@@ -60,6 +60,10 @@ Este projeto evidencia habilidades valorizadas em vagas de Dados, BI e Tecnologi
   - Mentalidade orientada a resultados
 
 
+### Arquivo Do Projeto
+
+[Baixe Aqui a Plhanilha](Ferramenta_de_Controle_de_Investimentos.xlsx)
+
 ### 🚀 Possíveis Evoluções
 
   - Integração com Power BI
