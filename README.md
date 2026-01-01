@@ -62,7 +62,7 @@ Este projeto evidencia habilidades valorizadas em vagas de Dados, BI e Tecnologi
 
 ### Arquivo Do Projeto
 
-[Baixe Aqui a Plhanilha]([Ferramenta_de_Controle_de_Investimentos.xlsx](https://github.com/ivocoelhoc/Simulador-Ferramenta-de-Investimento/blob/941c8a0e6a8a53b869305e2f53efb2e24c8f5740/Ferramenta%20de%20Controle%20de%20Investimentos.xlsx))
+[Baixe Aqui a Plhanilha](https://github.com/ivocoelhoc/Simulador-Ferramenta-de-Investimento/blob/941c8a0e6a8a53b869305e2f53efb2e24c8f5740/Ferramenta%20de%20Controle%20de%20Investimentos.xlsx)
 
 ### 🚀 Possíveis Evoluções
 
